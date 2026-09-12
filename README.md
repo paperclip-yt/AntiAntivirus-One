@@ -1,4 +1,4 @@
 # AntiAntivirus-One
 prankless harm
 fake adware - not a real virus
-its not up yet :(
+download here: https://github.com/paperclip-yt/AntiAntivirus-One
